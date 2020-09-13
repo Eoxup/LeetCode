@@ -1,4 +1,6 @@
-func findKthBit(n int, k int) byte {
+package findKthBit
+
+func FindKthBit(n int, k int) byte {
     /**********************************
      binary k | ans | y | z |
     ----------|-----|---|---|
